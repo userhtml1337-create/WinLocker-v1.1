@@ -26,7 +26,7 @@ BY T.ME/THERESNOTBIOYET
 | **advapi32.dll** | Advanced Windows Services | [MSDN AdvAPI32](https://docs.microsoft.com/en-us/windows/win32/api/securitybaseapi/) |
 | **shlwapi.dll** | Shell Lightweight Utilities | [MSDN ShlwAPI](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/) |
 | **wininet.dll** | Windows Internet API | [MSDN WinINet](https://docs.microsoft.com/en-us/windows/win32/api/wininet/) |
-BY T.ME/THERESNOTBIOYET
+|BY T.ME/THERESNOTBIOYET | [Подписаться](t.me/theresnotbioyet) | Следить |
 ### 🚫 Драйвера Уровня Ядра (НЕ используются)
 - **Нет .sys файлов**
 - **Нет драйверов ядра (kernel-mode)**
@@ -43,7 +43,7 @@ BY T.ME/THERESNOTBIOYET
 | **Память** | 512 MB RAM | 2 GB RAM+ |
 | **Диск** | 50 MB свободного места | 200 MB+ SSD |
 | **Видео** | VGA 800x600 | Full HD 1920x1080 |
-BY T.ME/THERESNOTBIOYET
+| BY T.ME/THERESNOTBIOYET | Подписаться | Следить |
 #### 💾 Программное Обеспечение
 | Компонент | Минимальные | Рекомендуемые |
 |-----------|-------------|---------------|
@@ -51,7 +51,7 @@ BY T.ME/THERESNOTBIOYET
 | **Architecture** | x86 (32-bit) | x64 (64-bit) |
 | **.NET Framework** | Не требуется | Не требуется |
 | **Visual C++** | Не требуется | Visual C++ Redistributable |
-BY T.ME/THERESNOTBIOYET
+| BY T.ME/THERESNOTBIOYET | Подписаться | Следить |
 ### 🚀 Рекомендуемые Компоненты
 BY T.ME/THERESNOTBIOYET
 #### 🔧 Дополнительное ПО для Разработки
@@ -61,17 +61,17 @@ BY T.ME/THERESNOTBIOYET
 | **Visual Studio Build Tools** | Альтернативный компилятор | [Microsoft Download](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022) |
 | **Process Hacker** | Мониторинг процессов | [Process Hacker](https://processhacker.sourceforge.io/) |
 | **API Monitor** | Отладка API вызовов | [API Monitor](http://www.rohitab.com/apimonitor) |
-BY T.ME/THERESNOTBIOYET
+| BY T.ME/THERESNOTBIOYET | Подписаться | Следить |
 #### 🛡️ Инструменты Безопасности
 | Инструмент | Назначение | Ссылка |
 |------------|------------|--------|
 | **Windows Defender Exclusions** | Добавление в исключения | [MS Docs](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus) |
 | **VMware/VirtualBox** | Тестирование на ВМ | [VMware](https://www.vmware.com/) / [VirtualBox](https://www.virtualbox.org/) |
+| BY T.ME/THERESNOTBIOYET | Подписаться | Следить |
 
 ## 🔄 Системные Зависимости
 
 ### 📚 Необходимые Библиотеки для Компиляции
-```bash
 # Основные библиотеки
 -lgdi32 -luser32 -lkernel32 -lshell32
 BY T.ME/THERESNOTBIOYET
