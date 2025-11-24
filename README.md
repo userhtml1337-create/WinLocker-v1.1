@@ -1,16 +1,17 @@
 # WinLocker-v1.1
 What's its purpose and features? When you open the file, you have 60 seconds to enter the password that appears on the screen. If you don't enter it, the program will close, and nothing will happen to your Windows. However, if you enter the password, everything will remain the same. I wrote this software for the Telegram channel LeagueOfCrazyPeople
 
+# Скинуть кенту вирус
 [Перейти на Яндекс Диск](https://disk.yandex.ru/d/ZASz3_KGfEvZvw)
 
 
-### Это Winlocker пугалка! Запускаешь файл на фоне введите пароль (пароль на экране)
+## Это Winlocker пугалка! Запускаешь файл на фоне введите пароль (пароль на экране)
 BY T.ME/THERESNOTBIOYET
 ## C вашей Windows не будет не чего если вы будете не чего делать
 BY T.ME/THERESNOTBIOYET
 ## Был сделаном Vasil1y_K для Лига ахуевшего интернета
 BY T.ME/THERESNOTBIOYET
-# 🚨 WinLocker - Драйвера и Системные Требования
+## 🚨 WinLocker - Драйвера и Системные Требования
 BY T.ME/THERESNOTBIOYET
 ## 🔧 Драйвера и Системные Компоненты
 BY T.ME/THERESNOTBIOYET
